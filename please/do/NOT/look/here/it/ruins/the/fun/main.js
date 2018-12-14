@@ -1,4 +1,4 @@
-function 1() {
+function one() {
   var localtime = new Date();
   var year2069 = new Date(2069, 11, 24, 10, 33, 30, 0);
   if (localtime.getFullYear() == year2069.getFullYear()) {
