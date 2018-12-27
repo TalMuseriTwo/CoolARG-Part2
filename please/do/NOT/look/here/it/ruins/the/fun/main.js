@@ -9,3 +9,10 @@ function one() {
     document.write("<center><font face='Arial'><a dir='rtl'>תקבלו את הרמז הבא עוד 50 שנה.</a></font></center>");
   }
 }
+
+function two() {
+  final_password = prompt("כמעט סיימתם. כל מה שנשאר זה הסיסמה הזו. יש רמז אחד שקיבלתם במהלך המסע הקסום ועדיין לא השתמשתם בו.");
+  if (final_password = "בצלאל המלך") {
+    alert ("כל הכבוד! סיימתם את ה");
+  }
+}
